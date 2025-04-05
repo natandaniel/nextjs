@@ -49,3 +49,14 @@ import { lusitana } from "@/app/ui/fonts";
 - Font metrics are calculated at build time
 - CSS size-adjust properties are automatically applied
 - Prevents Cumulative Layout Shift (CLS)
+
+## Additional Resources
+
+- [Next.js Font Documentation](https://nextjs.org/docs/basic-features/font-optimization) - Official Next.js documentation on font optimization
+- [Google Fonts](https://fonts.google.com/) - Browse and select fonts for your project
+- [Font Loading Best Practices](https://web.dev/font-best-practices/) - Web.dev guide on font loading best practices
+- [Variable Fonts](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts/Variable_Fonts_Guide) - MDN guide on variable fonts
+- [Font Display Property](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display) - MDN documentation on font-display CSS property
+- [Font Subsetting](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/unicode-range) - MDN guide on font subsetting with unicode-range
+- [Font Loading API](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Font_Loading_API) - MDN documentation on the Font Loading API
+- [Font Performance](https://web.dev/optimize-webfont-loading/) - Web.dev guide on optimizing web font loading

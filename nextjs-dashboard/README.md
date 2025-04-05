@@ -21,7 +21,8 @@ nextjs-dashboard/
 │   ├── query/             # Data fetching and API logic
 │   └── seed/              # Database seeding scripts
 ├── docs/                  # Documentation
-│   └── fonts.md          # Font system documentation
+│   ├── fonts.md          # Font system documentation
+│   └── images.md         # Image optimization documentation
 ├── public/                # Static assets
 └── [Configuration Files]  # TypeScript, Tailwind, Next.js configs
 ```
@@ -29,6 +30,7 @@ nextjs-dashboard/
 ### Documentation
 
 - [Font System Guide](docs/fonts.md) - Learn about Next.js font optimization and usage
+- [Image Optimization Guide](docs/images.md) - Learn about Next.js image optimization and best practices
 
 ### Technology Stack
 
