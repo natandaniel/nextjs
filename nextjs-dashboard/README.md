@@ -20,9 +20,15 @@ nextjs-dashboard/
 │   ├── lib/               # Utility functions
 │   ├── query/             # Data fetching and API logic
 │   └── seed/              # Database seeding scripts
+├── docs/                  # Documentation
+│   └── fonts.md          # Font system documentation
 ├── public/                # Static assets
 └── [Configuration Files]  # TypeScript, Tailwind, Next.js configs
 ```
+
+### Documentation
+
+- [Font System Guide](docs/fonts.md) - Learn about Next.js font optimization and usage
 
 ### Technology Stack
 
