@@ -22,7 +22,8 @@ nextjs-dashboard/
 │   └── seed/              # Database seeding scripts
 ├── docs/                  # Documentation
 │   ├── fonts.md          # Font system documentation
-│   └── images.md         # Image optimization documentation
+│   ├── images.md         # Image optimization documentation
+│   └── imports.md        # JavaScript/TypeScript import syntax guide
 ├── public/                # Static assets
 └── [Configuration Files]  # TypeScript, Tailwind, Next.js configs
 ```
@@ -31,6 +32,7 @@ nextjs-dashboard/
 
 - [Font System Guide](docs/fonts.md) - Learn about Next.js font optimization and usage
 - [Image Optimization Guide](docs/images.md) - Learn about Next.js image optimization and best practices
+- [Import Syntax Guide](docs/imports.md) - Understand JavaScript/TypeScript import patterns in Next.js
 
 ### Technology Stack
 
